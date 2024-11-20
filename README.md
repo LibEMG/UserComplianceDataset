@@ -1,6 +1,6 @@
 # UserComplianceDataset
 
-6-subject dataset for continuous estimation of 2 DOFs: hand open/close (DOF 1) and wrist rotation (DOF 2).  Each participant provided 3 distinct sets: 2 emulated behaviours, namely "All or Nothing" and "Anticipation", and a baseline set of data. Check out our MEC publication for an in-depth look at data collection details: <https://conferences.lib.unb.ca/index.php/mec/article/view/2507>.
+6-subject (5M, 1F, 23 - 31 years old) dataset for continuous estimation of 2 DOFs: hand open/close (DOF 1) and wrist rotation (DOF 2).  Each participant provided 3 distinct sets: 2 emulated behaviours, namely "All or Nothing" and "Anticipation", and a baseline set of data. Check out our MEC publication for an in-depth look at data collection details: <https://conferences.lib.unb.ca/index.php/mec/article/view/2507>.
 
 ## Usage
 
